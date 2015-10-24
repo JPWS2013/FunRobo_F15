@@ -12,10 +12,12 @@
 		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="numTypedefs" Type="UInt">2</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">DataHighway.ctl</Property>
+		<Property Name="typedefName2" Type="Str">IMAQ Image.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../DataHighway.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$V]1!!!"1!A!!!!!!+!!R!)1&gt;)6SV4&gt;'^Q!!V!#A!(5WBB=H!A-1!.1!I!"V.I98*Q)$)!$U!+!!B4;'&amp;S=#!A-Q!!%E!B$&amp;*P9G^U5H6O&lt;GFO:Q!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!'%"1!!-!"1!'!!=,5G^C&lt;X1A28*S&lt;X)!/!$R!!!!!!!!!!%02'&amp;U95BJ:WBX98EO9X2M!#"!5!!'!!!!!1!#!!-!"!!)#%2B&gt;'&amp;)6W&amp;Z!!!"!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefPath2" Type="PathRel">&lt;Not A Path&gt;</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(%Q!%!!"1!A!!!!!!*!!R!)1&gt;)6SV4&gt;'^Q!"*!)1R3&lt;W*P&gt;&amp;*V&lt;GZJ&lt;G=!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!"B!5!!$!!)!!Q!%#V*P9G^U)%6S=G^S!&amp;5!]1!!!!!!!!!"$EF.16%A37VB:W5O9X2M!$Z!=!!&gt;#5F.16&amp;*&lt;7&amp;H:1!!#5F.16&amp;*&lt;7&amp;H:21!A!!!!!!"!!1!!!!"!!!!!!!!#6*B&gt;S"*&lt;7&amp;H:1"&lt;!0%!!!!!!!!!!1Z*45&amp;2)%FN97&gt;F,G.U&lt;!"%1(!!(1F*45&amp;237VB:W5!!!F*45&amp;237VB:W55!)!!!!!!!1!%!!!!!1!!!!!!!!^1=G^D:8.T:71A37VB:W5!.A$R!!!!!!!!!!%02'&amp;U95BJ:WBX98EO9X2M!"Z!5!!&amp;!!!!!1!&amp;!!9!"QB%982B3&amp;&gt;B?1!!!1!)!!!!!!!!!!!!!!!!!!!!!!!!#GZJ&gt;GFT=X:D,CI!!!!44&amp;:@37VB:W6%6%.M98.T37ZG&lt;Q!!!!%!!!!!!!!!!!!!!!JO;8:J=X.W9SYK!!!!%UR78UFN97&gt;F2&amp;2$&lt;'&amp;T=UFO:G]!!!!"!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
