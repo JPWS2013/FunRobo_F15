@@ -117,8 +117,6 @@
 				<Item Name="Draw Multiple Lines.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Multiple Lines.vi"/>
 				<Item Name="IMAQ Dispose" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Dispose"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Particle Parameters" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Particle Parameters"/>
-				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
@@ -151,16 +149,6 @@
 			<Item Name="phidget21.dll" Type="Document" URL="phidget21.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="BallColor.ctl" Type="VI" URL="../controls/BallColor.ctl"/>
-			<Item Name="FrontBack.ctl" Type="VI" URL="../controls/FrontBack.ctl"/>
-			<Item Name="LIDAR_FindBall.vi" Type="VI" URL="../LIDAR_FindBall.vi"/>
-			<Item Name="FindLowest2Values.vi" Type="VI" URL="../FindLowest2Values.vi"/>
-			<Item Name="ReplaceAllSimilar.vi" Type="VI" URL="../ReplaceAllSimilar.vi"/>
-			<Item Name="FindBall.vi" Type="VI" URL="../FindBall.vi"/>
-			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="Get Ball Position.vi" Type="VI" URL="../Get Ball Position.vi"/>
 			<Item Name="OpenLog.vi" Type="VI" URL="/C/Users/jpoh/Box Sync/Olin Documents, Fall 2015/Robo1/Course Material/Proj 2 HowToBuildSimpleRobotControl/FSM1 Simple Robot Control/OpenLog.vi"/>
 			<Item Name="WriteLog.vi" Type="VI" URL="/C/Users/jpoh/Box Sync/Olin Documents, Fall 2015/Robo1/Course Material/Proj 2 HowToBuildSimpleRobotControl/FSM1 Simple Robot Control/WriteLog.vi"/>
 			<Item Name="CloseLog.vi" Type="VI" URL="/C/Users/jpoh/Box Sync/Olin Documents, Fall 2015/Robo1/Course Material/Proj 2 HowToBuildSimpleRobotControl/FSM1 Simple Robot Control/CloseLog.vi"/>
